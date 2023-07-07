@@ -6,7 +6,7 @@
 ## Authors: Aleksandr Kross, Alina Khramova  
 [**Email of Aleksandr Kross**](<krossale@fel.czut.cz>) <br>
 
-##Synopsis
+## Synopsis
 
 The course familiarizes students with the basic principles of acquisition and processing of multimedia content, <br> 
 with a focus on image processing, video and audio, as well as the principles of graphic design and its implementation in a web environment.<br>  
@@ -16,5 +16,5 @@ while they use several different types of instruments at the application level a
 All students will apply the knowledge gained within the last day dedicated to composition rules within a Web project. <br> 
 After completing the course, students will carry out their own independent project and after its submission will be assessed.
 
-##Website
+## Website
 [Link to website](https://wa.toad.cz/~krossale/zmt/)
