@@ -1,4 +1,4 @@
-# ZMT
+# ZMT (Základy multimediální tvorby) 
 **Code**:B6B39ZMT<br>
 **Name**:Foundations of Multimedia Production<br>
 **Faculty**:Faculty of Electrical Engineering<br>
