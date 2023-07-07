@@ -1,8 +1,8 @@
 # ZMT (Základy multimediální tvorby) 
-**Code**:B6B39ZMT<br>
-**Name**:Foundations of Multimedia Production<br>
-**Faculty**:Faculty of Electrical Engineering<br>
-**Department**:13139 - Department of Computer Graphics and Interaction <br>
+**Code**: B6B39ZMT<br>
+**Name**: Foundations of Multimedia Production<br>
+**Faculty**: Faculty of Electrical Engineering<br>
+**Department**: 13139 - Department of Computer Graphics and Interaction <br>
 ## Authors: Aleksandr Kross, Alina Khramova  
 [**Email of Aleksandr Kross**](<krossale@fel.czut.cz>) <br>
 
